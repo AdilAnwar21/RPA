@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright, TimeoutError
 
 # ================= CONFIG =================
 
-BASE_URL = "http://localhost:4200/"
+BASE_URL = "https://demo1.mydayoneai.com/"
 PASSWORD = "random_password"
 
 # USERNAMES = ['ace','luffy','sanji','light','usopp','roger'] 
@@ -32,8 +32,6 @@ USERNAMES = [
     'ganesh@htpl.cc',
     'akshay@htpl.cc',
     'adnan@htpl.cc',
-    'adil@htpl.cc',
-    'nafih@htpl.cc',
     'mohammed.ali@htpl.cc',
     'user1@gmail.com',
     'user2@gmail.com',
@@ -101,7 +99,7 @@ USERNAMES = [
 CONCURRENT_USERS = 20 
 
 # Highly recommended to keep True for 20 users to save RAM/CPU
-HEADLESS = True 
+HEADLESS = False 
 NAV_TIMEOUT = 30000
 ACTION_TIMEOUT = 10000
 ASSESSMENT_MENU_NAME = "My Participation"
@@ -352,12 +350,12 @@ async def run_load_test():
         # Added extra arguments to prevent memory bloat
         browser = await playwright.chromium.launch(
             headless=HEADLESS, 
-            args=[
-                '--disable-dev-shm-usage',
-                '--disable-gpu',
-                '--no-sandbox',
-                '--disable-extensions'
-            ]
+            # args=[
+            #     '--disable-dev-shm-usage',
+            #     '--disable-gpu',
+            #     '--no-sandbox',
+            #     '--disable-extensions'
+            # ]
         )
         
         # Pulling up to 20 users from the PROD list
