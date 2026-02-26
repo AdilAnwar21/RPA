@@ -99,7 +99,7 @@ USERNAMES = [
 CONCURRENT_USERS = 20 
 
 # Highly recommended to keep True for 20 users to save RAM/CPU
-HEADLESS = False 
+HEADLESS = True 
 NAV_TIMEOUT = 30000
 ACTION_TIMEOUT = 10000
 ASSESSMENT_MENU_NAME = "My Participation"
@@ -350,12 +350,12 @@ async def run_load_test():
         # Added extra arguments to prevent memory bloat
         browser = await playwright.chromium.launch(
             headless=HEADLESS, 
-            # args=[
-            #     '--disable-dev-shm-usage',
-            #     '--disable-gpu',
-            #     '--no-sandbox',
-            #     '--disable-extensions'
-            # ]
+            args=[
+                '--disable-dev-shm-usage',
+                '--disable-gpu',
+                '--no-sandbox',
+                '--disable-extensions'
+            ]
         )
         
         # Pulling up to 20 users from the PROD list
