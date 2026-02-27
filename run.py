@@ -10,29 +10,29 @@ PASSWORD = "random_password"
 # USERNAMES = ['ace','luffy','sanji','light','usopp','roger'] 
 
 USERNAMES = [
-    # 'sample12@gmail.com',
-    # 'sample33@gmail.com',
+    'sample12@gmail.com',
+    'sample33@gmail.com',
     'fedora',
-    # 'sample545@gmail.com',
-    # 'sample35@gmail.com',
-    # 'sample56@gmail.com',
-    # 'sample642@gmail.com',
-    # 'sample123@gmail.com',
-    # 'sample654@gmail.com',
-    # 'sample6w3@gmail.com',
-    # 'jubina@htpl.cc',
-    # 'aslima@htpl.cc',
-    # 'shibil.muhammed@htpl.cc',
-    # 'harsha@htpl.cc',
-    # 'akbar.ali@htpl.cc',
-    # 'shameem.sha@htpl.cc',
-    # 'sona.gopalan@htpl.cc',
-    # 'fidha@htpl.cc',
-    # 'gowtham@htpl.cc',
-    # 'ganesh@htpl.cc',
-    # 'akshay@htpl.cc',
-    # 'adnan@htpl.cc',
-    # 'mohammed.ali@htpl.cc',
+    'sample545@gmail.com',
+    'sample35@gmail.com',
+    'sample56@gmail.com',
+    'sample642@gmail.com',
+    'sample123@gmail.com',
+    'sample654@gmail.com',
+    'sample6w3@gmail.com',
+    'jubina@htpl.cc',
+    'aslima@htpl.cc',
+    'shibil.muhammed@htpl.cc',
+    'harsha@htpl.cc',
+    'akbar.ali@htpl.cc',
+    'shameem.sha@htpl.cc',
+    'sona.gopalan@htpl.cc',
+    'fidha@htpl.cc',
+    'gowtham@htpl.cc',
+    'ganesh@htpl.cc',
+    'akshay@htpl.cc',
+    'adnan@htpl.cc',
+    'mohammed.ali@htpl.cc',
     # 'user1@gmail.com',
     # 'user2@gmail.com',
     # 'user3@gmail.com',
@@ -99,7 +99,7 @@ USERNAMES = [
 CONCURRENT_USERS = 20 
 
 # Highly recommended to keep True for 20 users to save RAM/CPU
-HEADLESS = False 
+HEADLESS = True 
 NAV_TIMEOUT = 30000
 ACTION_TIMEOUT = 10000
 ASSESSMENT_MENU_NAME = "My Participation"
