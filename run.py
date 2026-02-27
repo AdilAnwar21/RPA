@@ -10,96 +10,96 @@ PASSWORD = "random_password"
 # USERNAMES = ['ace','luffy','sanji','light','usopp','roger'] 
 
 USERNAMES = [
-    'sample12@gmail.com',
-    'sample33@gmail.com',
+    # 'sample12@gmail.com',
+    # 'sample33@gmail.com',
     'fedora',
-    'sample545@gmail.com',
-    'sample35@gmail.com',
-    'sample56@gmail.com',
-    'sample642@gmail.com',
-    'sample123@gmail.com',
-    'sample654@gmail.com',
-    'sample6w3@gmail.com',
-    'jubina@htpl.cc',
-    'aslima@htpl.cc',
-    'shibil.muhammed@htpl.cc',
-    'harsha@htpl.cc',
-    'akbar.ali@htpl.cc',
-    'shameem.sha@htpl.cc',
-    'sona.gopalan@htpl.cc',
-    'fidha@htpl.cc',
-    'gowtham@htpl.cc',
-    'ganesh@htpl.cc',
-    'akshay@htpl.cc',
-    'adnan@htpl.cc',
-    'mohammed.ali@htpl.cc',
-    'user1@gmail.com',
-    'user2@gmail.com',
-    'user3@gmail.com',
-    'user4@gmail.com',
-    'user5@gmail.com',
-    'user6@gmail.com',
-    'user7@gmail.com',
-    'user8@gmail.com',
-    'user9@gmail.com',
-    'user10@gmail.com',
-    'user11@gmail.com',
-    'user143@gmail.com',
-    'user134@gmail.com',
-    'user1343@gmail.com',
-    'user1334@gmail.com',
-    'user154@gmail.com',
-    'user16345@gmail.com',
-    'user176@gmail.com',
-    'use34rr1@gmail.com',
-    'use43war1@gmail.com',
-    'user1gr5@gmail.com',
-    'usergfrd41@gmail.com',
-    'user1gr4@gmail.com',
-    'user1f3@gmail.com',
-    'user1fer4@gmail.com',
-    'user1fre4@gmail.com',
-    'user1erf@gmail.com',
-    'userefe1@gmail.com',
-    'user13@gmail.com',
-    'user14f@gmail.com',
-    'user5d1@gmail.com',
-    'user145dfd@gmail.com',
-    'user164f@gmail.com',
-    'user153f@gmail.com',
-    'ankushechopeak@gmail.com',
-    'bhagyaechopeak@gmail.com',
-    'echopeakagent1@gmail.com',
-    'echopeakagent2@gmail.com',
-    'echopeakagent3@gmail.com',
-    'echopeakagent4@gmail.com',
-    'echopeakagent5@gmail.com',
-    'echopeakagent6@gmail.com',
-    'echopeakagent7@gmail.com',
-    'echopeakagent25@gmail.com',
-    'echopeakagent26@gmail.com',
-    'echopeakagent30@gmail.com',
-    'echopeakagent8@gmail.com',
-    'echopeakagent10@gmail.com',
-    'echopeakagent11@gmail.com',
-    'echopeakagent12@gmail.com',
-    'echopeakagent13@gmail.com',
-    'echopeakagent14@gmail.com',
-    'echopeakagent15@gmail.com',
-    'echopeakagent16@gmail.com',
-    'echopeakagent17@gmail.com',
-    'echopeakagent18@gmail.com',
-    'echopeakagent19@gmail.com',
-    'echopeakagent20@gmail.com',
-    'echopeakagent21@gmail.com',
-    'echopeakagent24@gmail.com',
-    'echopeakagent29@gmail.com'
+    # 'sample545@gmail.com',
+    # 'sample35@gmail.com',
+    # 'sample56@gmail.com',
+    # 'sample642@gmail.com',
+    # 'sample123@gmail.com',
+    # 'sample654@gmail.com',
+    # 'sample6w3@gmail.com',
+    # 'jubina@htpl.cc',
+    # 'aslima@htpl.cc',
+    # 'shibil.muhammed@htpl.cc',
+    # 'harsha@htpl.cc',
+    # 'akbar.ali@htpl.cc',
+    # 'shameem.sha@htpl.cc',
+    # 'sona.gopalan@htpl.cc',
+    # 'fidha@htpl.cc',
+    # 'gowtham@htpl.cc',
+    # 'ganesh@htpl.cc',
+    # 'akshay@htpl.cc',
+    # 'adnan@htpl.cc',
+    # 'mohammed.ali@htpl.cc',
+    # 'user1@gmail.com',
+    # 'user2@gmail.com',
+    # 'user3@gmail.com',
+    # 'user4@gmail.com',
+    # 'user5@gmail.com',
+    # 'user6@gmail.com',
+    # 'user7@gmail.com',
+    # 'user8@gmail.com',
+    # 'user9@gmail.com',
+    # 'user10@gmail.com',
+    # 'user11@gmail.com',
+    # 'user143@gmail.com',
+    # 'user134@gmail.com',
+    # 'user1343@gmail.com',
+    # 'user1334@gmail.com',
+    # 'user154@gmail.com',
+    # 'user16345@gmail.com',
+    # 'user176@gmail.com',
+    # 'use34rr1@gmail.com',
+    # 'use43war1@gmail.com',
+    # 'user1gr5@gmail.com',
+    # 'usergfrd41@gmail.com',
+    # 'user1gr4@gmail.com',
+    # 'user1f3@gmail.com',
+    # 'user1fer4@gmail.com',
+    # 'user1fre4@gmail.com',
+    # 'user1erf@gmail.com',
+    # 'userefe1@gmail.com',
+    # 'user13@gmail.com',
+    # 'user14f@gmail.com',
+    # 'user5d1@gmail.com',
+    # 'user145dfd@gmail.com',
+    # 'user164f@gmail.com',
+    # 'user153f@gmail.com',
+    # 'ankushechopeak@gmail.com',
+    # 'bhagyaechopeak@gmail.com',
+    # 'echopeakagent1@gmail.com',
+    # 'echopeakagent2@gmail.com',
+    # 'echopeakagent3@gmail.com',
+    # 'echopeakagent4@gmail.com',
+    # 'echopeakagent5@gmail.com',
+    # 'echopeakagent6@gmail.com',
+    # 'echopeakagent7@gmail.com',
+    # 'echopeakagent25@gmail.com',
+    # 'echopeakagent26@gmail.com',
+    # 'echopeakagent30@gmail.com',
+    # 'echopeakagent8@gmail.com',
+    # 'echopeakagent10@gmail.com',
+    # 'echopeakagent11@gmail.com',
+    # 'echopeakagent12@gmail.com',
+    # 'echopeakagent13@gmail.com',
+    # 'echopeakagent14@gmail.com',
+    # 'echopeakagent15@gmail.com',
+    # 'echopeakagent16@gmail.com',
+    # 'echopeakagent17@gmail.com',
+    # 'echopeakagent18@gmail.com',
+    # 'echopeakagent19@gmail.com',
+    # 'echopeakagent20@gmail.com',
+    # 'echopeakagent21@gmail.com',
+    # 'echopeakagent24@gmail.com',
+    # 'echopeakagent29@gmail.com'
 ]
 # Optimized for local machine stability
 CONCURRENT_USERS = 20 
 
 # Highly recommended to keep True for 20 users to save RAM/CPU
-HEADLESS = True 
+HEADLESS = False 
 NAV_TIMEOUT = 30000
 ACTION_TIMEOUT = 10000
 ASSESSMENT_MENU_NAME = "My Participation"
@@ -200,18 +200,31 @@ async def attempt_assessment(browser, username, semaphore):
                 pass 
 
             # ---------- START ASSESSMENT ----------
-            print(f"🔹 [{username}] Clicking 'Attempt' / 'Self Assessment'...")
-            attempt_btn = page.locator("button:has-text('Attempt'), button:has-text('Self Assessment')").first
+            print(f"🔹 [{username}] Clicking 'Attempt' / 'Self Assessment' / 'Continue Attempt'...")
+            
+            # 1. Reverted to has-text for flexibility. 
+            # Note: "has-text('Attempt')" will successfully match BOTH "Attempt" and "Continue Attempt"!
+            attempt_btn = page.locator(
+                "button:has-text('Attempt'), "
+                "button:has-text('Self Assessment')"
+            ).first
+            
             await attempt_btn.wait_for(state="visible", timeout=ACTION_TIMEOUT)
             await attempt_btn.click(force=True)
 
-            print(f"🔹 [{username}] Clicking 'Continue'...")
-            await page.wait_for_selector("button:has-text('Continue')", timeout=ACTION_TIMEOUT)
-            await page.locator("button:has-text('Continue')").first.click(force=True)
+            # Add a short pause to allow the screen transition from the Survey Activities to Instructions
+            await page.wait_for_timeout(1500)
+
+            print(f"🔹 [{username}] Clicking 'Continue' on Instructions screen...")
+            
+            # 2. Look for "Continue", but explicitly exclude anything with "Attempt" to avoid old buttons
+            continue_btn = page.locator("button:has-text('Continue')").filter(has_not_text="Attempt").first
+            await continue_btn.wait_for(state="visible", timeout=ACTION_TIMEOUT)
+            await continue_btn.click(force=True)
             
             print(f"🔹 [{username}] Handling initial Modals...")
             try:
-                 await page.click("button:has-text('Ok')", timeout=3000)
+                 await page.locator("button:has-text('Ok')").first.click(timeout=3000)
             except:
                  pass
 
@@ -236,7 +249,7 @@ async def attempt_assessment(browser, username, semaphore):
                         is_answered = True
                     else:
                         print(f"🔹 [{username}] Typing text for Q{question_count}...")
-                        await textarea.first.fill("Automated RPA Response text.")
+                        await textarea.first.press_sequentially("Automated RPA Response text.", delay=random.randint(30, 80))
                         is_answered = True
                 else:
                     input_selector = "input[type='checkbox'], input[type='radio']"
@@ -255,8 +268,19 @@ async def attempt_assessment(browser, username, semaphore):
                             think_ms = random.randint(500, 1500)
                             await page.wait_for_timeout(think_ms)
                             
-                            await page.locator(click_selector).first.click(force=True)
-                            print(f"🔹 [{username}] Selected option for Q{question_count}...")
+                            options_locator = page.locator(click_selector)
+                            options_count = await options_locator.count()
+                            
+                            if options_count > 0:
+                                random_choice = random.randint(0, options_count - 1)
+                                
+                                await options_locator.nth(random_choice).click(delay=random.randint(50, 150))
+                                
+                                await page.wait_for_timeout(random.randint(800, 2000))
+                                
+                                print(f"🔹 [{username}] Selected random option {random_choice + 1} out of {options_count} for Q{question_count}...")
+                            else:
+                                print(f"⚠️ [{username}] No clickable options found for Q{question_count}!")
                     except Exception as e:
                         print(f"⚠️ [{username}] Could not process options for Q{question_count}: {e}")
 
@@ -278,14 +302,14 @@ async def attempt_assessment(browser, username, semaphore):
                     
                     print(f"🔹 [{username}] Clicking Submit...")
                     await submit_btn.scroll_into_view_if_needed()
-                    await submit_btn.click(force=True)
+                    await submit_btn.click(delay=random.randint(50, 150))
                     
                     print(f"🔹 [{username}] Confirming Submission (Clicking Yes)...")
                     try:
                         yes_btn = page.locator("button:has-text('Yes')").first
                         await yes_btn.wait_for(state="visible", timeout=ACTION_TIMEOUT)
                         await page.wait_for_timeout(1000)
-                        await yes_btn.click(force=True)
+                        await yes_btn.click(delay=random.randint(50, 150))
                     except Exception as e:
                         print(f"🔸 [{username}] Confirmation modal check skipped: {e}")
                     
@@ -313,7 +337,31 @@ async def attempt_assessment(browser, username, semaphore):
                 elif await next_btn.is_visible():
                     print(f"🔹 [{username}] Clicking 'Next'")
                     await next_btn.first.scroll_into_view_if_needed()
-                    await next_btn.first.click(force=True)
+                    await next_btn.first.click(delay=random.randint(50, 150))
+                    
+                    # ----------------------------------------------------------------
+                    # NEW LOGIC: Check for the validation modal after clicking "Next"
+                    # ----------------------------------------------------------------
+                    try:
+                        # Wait up to 2 seconds for an error modal to pop up
+                        # Adjust 'Ok' / 'OK' / 'Close' based on what your specific modal uses
+                        modal_btn = page.locator("button:has-text('Ok'), button:has-text('OK'), button:has-text('Close')").first
+                        await modal_btn.wait_for(state="visible", timeout=2000)
+                        
+                        print(f"⚠️ [{username}] Validation modal detected! Closing and retrying Q{question_count}...")
+                        await modal_btn.click(delay=random.randint(50, 150))
+                        await page.wait_for_timeout(1000) # Give the modal time to disappear
+                        
+                        # Loop back to the start of the while loop to retry selecting the option 
+                        # WITHOUT incrementing question_count
+                        continue 
+                        
+                    except TimeoutError:
+                        # If a TimeoutError happens here, it means the modal DID NOT appear. 
+                        # That's good! It means "Next" was successful.
+                        pass
+                    # ----------------------------------------------------------------
+
                     question_count += 1
                     await page.wait_for_timeout(1000) 
                 else:
